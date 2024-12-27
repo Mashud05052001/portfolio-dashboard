@@ -1,0 +1,50 @@
+.ant-timeline .ant-timeline-item-tail {
+  margin-top: 4px;
+  margin-left: 3.5px;
+  background: #003669;
+  opacity: 25%;
+}
+
+.ant-timeline .ant-timeline-item-head {
+  width: 1rem;
+  height: 1rem;
+  border: 4px solid #003669;
+}
+
+.ant-collapse-item .ant-collapse-header-text {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.ant-collapse-item .ant-collapse-content-box {
+  font-size: 0.9rem;
+  margin: 0 0 0 25px;
+}
+.ant-steps .ant-steps-item-finish .ant-steps-item-icon {
+  background: #00366975 !important;
+  color: white;
+}
+.ant-steps .ant-steps-item-finish .ant-steps-finish-icon {
+  color: white;
+}
+.ant-steps .ant-steps-item-active .ant-steps-item-icon {
+  background: #003669 !important;
+  border: 2px solid #003669;
+  font-weight: 700;
+}
+.ant-btn-primary {
+  background: #003669 !important;
+  padding: 0 1.5rem;
+}
+.ant-btn-primary:hover {
+  background: #054a8a !important;
+}
+.ant-btn-default:hover {
+  border-color: #003669 !important;
+  color: #003669 !important;
+}
+.ant-steps-item-content .ant-steps-item-title::after {
+  background-color: #00366975 !important;
+  height: 2px;
+  margin-top: 2px;
+  opacity: 70%;
+}
